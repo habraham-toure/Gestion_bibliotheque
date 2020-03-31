@@ -49,4 +49,4 @@ Comment lancer le logiciel ?
 
 
 
-NB : lancer le fichier sous un systÃ¨me linux 
+NB : lancer le fichier sous un système linux 
